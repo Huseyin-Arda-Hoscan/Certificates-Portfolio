@@ -28,4 +28,3 @@ This repository serves as a digital portfolio for my professional certifications
 | :--- | :--- | :--- |
 | [In-Demand Programmer Camp (Python, Java, C# - 104.5 hours)](UC-06ca449e-579d-477e-abf9-7631aa3f1ba5.pdf) | UDEMY | Dec 2023 |
 | [Python and Tensorflow for Data Science](Veri_Bilimi_için_Python_ve_Tensorflow_Sertifika.pdf) | BTK AKADEMİ | Mar 2025 |
-| *[Diğer Geliştirme/AI Sertifikalarınız Buraya Eklenecek]* | | |
